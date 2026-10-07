@@ -1,0 +1,12 @@
+---
+title: "CAFPA Board"
+---
+
+![A banner image of the US Capitol Building](assets/cafpaBanner.png)
+
+## CAFPA Board Members
+### Bob Ferguson, Vice President
+![Portrait of Bob Ferguson](assets/fergusonRobert-CAFPA.jpeg)
+
+President, Strategic Consulting, Inc.<br>
+[bob@strategic-consult.com](mailto:bob@strategic-consult.com)

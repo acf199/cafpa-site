@@ -1,0 +1,8 @@
+/* css styles */
+#hero-banner {
+  background-image: url('hero-bg.jpg');
+  background-size: cover;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: white;
+}
