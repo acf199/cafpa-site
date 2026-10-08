@@ -10,6 +10,7 @@
 .board-portrait {
   height: 14rem;
   width: 14rem;
+  max-width: fit-content;
 }
 
 figcaption, .figure-caption {
