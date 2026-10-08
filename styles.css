@@ -31,3 +31,7 @@
 figcaption, .figure-caption {
   display: none;
 }
+
+.center {
+    text-align: center;
+}

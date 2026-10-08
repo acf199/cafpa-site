@@ -9,6 +9,13 @@ website:
         text: Board Members
       - href: fall2026meeting.qmd
         text: ASM & CAFPA Fall 2026 Meeting
+    right:
+      - href: https://www.foodprotection.org/
+        text: IAFP
+      - href: https://www.foodprotection.org/membership/become-a-member/
+        text: Become a Member
+      - href: contact.qmd
+        text: Contact CAFPA
 
   announcement:
     icon: info-circle

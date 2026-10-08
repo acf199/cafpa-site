@@ -7,7 +7,11 @@ subtitle: Friday October 23rd, 2026
 
 Please join us for the ASM Washington, D.C. branch Joint Fall Meeting with the Capital Area Food Protection Association (CAFPA) that will be held on Friday, October 23rd, 2026 from 10AM-4PM (9AM Check-in) on Howard University’s campus!
 
-Register here: [Event Registration](https://www.eventbrite.com/e/asm-washington-dc-branch-and-cafpa-fall-2026-joint-meeting-tickets-2000870624901)
+
+::: {.center}
+[Event Registration](https://www.eventbrite.com/e/asm-washington-dc-branch-and-cafpa-fall-2026-joint-meeting-tickets-2000870624901)
+:::
+
 
 This joint meeting also features exciting talks from our invited keynote speakers:
 
