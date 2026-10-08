@@ -5,36 +5,80 @@ title: "CAFPA Board"
 ![A banner image of the US Capitol Building](assets/cafpaBanner.png)
 
 ## CAFPA Board Members
-### Bob Ferguson
-#### Vice President
-President, Strategic Consulting, Inc.<br>
-[bob@strategic-consult.com](mailto:bob@strategic-consult.com)
-![Portrait of Bob Ferguson](assets/fergusonRobert-CAFPA.jpeg)
 
-### Claire Murphy
-#### Secretary
-Ph.D. Student
-Dept. of Food Science & Technology, Virginia Tech
-[cmarik@vt.edu](mailto:cmarik@vt.edu)
-![Portrait of Claire Murphy](assets/murphyClaire-CAFPA.jpeg)
-
-### Lory Reveil
-#### Treasurer
-Director of Scientific & Regulatory Affairs
-American Frozen Food Institute
-[lreveil@affi.com](mailto:lreveil@affi.com)
-![Portrait of Claire Murphy](assets/murphyClaire-CAFPA.jpeg)
-
+::: columns
+::: {.column width="70%"}
 ### Elizabeth Reed
 #### President
 Microbiologist
 FDA’s Center for Food Safety and Applied Nutrition
 [elizabeth.reed@fda.hhs.gov](mailto:elizabeth.reed@fda.hhs.gov)
-![Portrait of Claire Murphy](assets/murphyClaire-CAFPA.jpeg)
+:::
 
+::: {.column width="30%"}
+![Portrait of Elizabeth Reed](assets/liz-reed.jpeg){.board-portrait}
+:::
+:::
+
+<br>
+
+::: columns
+::: {.column width="70%"}
+### Bob Ferguson
+#### Vice President
+President
+Strategic Consulting, Inc.<br>
+[bob@strategic-consult.com](mailto:bob@strategic-consult.com)
+:::
+
+::: {.column width="30%"}
+![Portrait of Bob Ferguson](assets/ferguson_bob_portrait.jpg){.board-portrait}
+:::
+:::
+
+<br>
+
+::: columns
+::: {.column width="70%"}
+### Claire Murphy
+#### Secretary
+Ph.D. Student
+Dept. of Food Science & Technology, Virginia Tech
+[cmarik@vt.edu](mailto:cmarik@vt.edu)
+:::
+
+::: {.column width="30%"}
+![Portrait of Claire Murphy](assets/claire-murphy.jpeg){.board-portrait}
+:::
+:::
+<br>
+
+::: columns
+::: {.column width="70%"}
+### Lory Reveil
+#### Treasurer
+Director of Scientific & Regulatory Affairs
+American Frozen Food Institute
+[lreveil@affi.com](mailto:lreveil@affi.com)
+:::
+
+::: {.column width="30%"}
+![Portrait of Lory Reveil](assets/lory-reveil.jpg){.board-portrait}
+:::
+:::
+<br>
+
+::: columns
+::: {.column width="70%"}
 ### Sanjay Gummalla
-#### Past President
+#### President Emeritus
 Senior VP of Scientific Affairs
 American Frozen Food Institute
 [sgummalla@affi.com](mailto:sgummalla@affi.com)
-![Portrait of Claire Murphy](assets/murphyClaire-CAFPA.jpeg)
+:::
+
+::: {.column width="30%"}
+![Portrait of Sanjay Gummalla](assets/sanjay-gummalla.jpg){.board-portrait}
+:::
+:::
+<br>

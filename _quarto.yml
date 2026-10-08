@@ -5,17 +5,24 @@ website:
   title: "Capitol Area Food Protection Association"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: board.qmd
-        text: CAFPA Board
+        text: Board Members
+      - href: fall2026meeting.qmd
+        text: ASM & CAFPA Fall 2026 Meeting
+
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Upcoming** - ASM & CAFPA Fall 2026 Joint Meeting - Oct. 23rd - [Learn more and register](fall2026meeting.qmd)"
+    type: success
+    position: below-navbar
 
 format:
   html:
     theme:
-      - darkly
+      - flatly
     css: styles.css
-    toc: true
+    toc: false
 
 
 

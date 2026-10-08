@@ -6,3 +6,12 @@
   text-align: center;
   color: white;
 }
+
+.board-portrait {
+  height: 14rem;
+  width: 14rem;
+}
+
+figcaption, .figure-caption {
+  display: none;
+}
