@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://acf199.github.io/cafpa-site/index.html</loc>
-    <lastmod>2026-10-08T13:16:17.619Z</lastmod>
+    <lastmod>2026-10-08T15:04:55.912Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acf199.github.io/cafpa-site/contact.html</loc>
+    <lastmod>2026-10-08T14:56:30.158Z</lastmod>
   </url>
   <url>
     <loc>https://acf199.github.io/cafpa-site/board.html</loc>
@@ -10,6 +14,6 @@
   </url>
   <url>
     <loc>https://acf199.github.io/cafpa-site/fall2026meeting.html</loc>
-    <lastmod>2026-10-08T13:16:17.618Z</lastmod>
+    <lastmod>2026-10-08T15:00:07.958Z</lastmod>
   </url>
 </urlset>
