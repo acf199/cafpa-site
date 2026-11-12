@@ -8,24 +8,8 @@ title: "CAFPA Board"
 
 ::: columns
 ::: {.column width="70%"}
-### Elizabeth Reed
-#### President
-Microbiologist
-FDA’s Center for Food Safety and Applied Nutrition
-[elizabeth.reed@fda.hhs.gov](mailto:elizabeth.reed@fda.hhs.gov)
-:::
-
-::: {.column width="30%"}
-![Portrait of Elizabeth Reed](assets/liz-reed.jpeg){.board-portrait}
-:::
-:::
-
-<br>
-
-::: columns
-::: {.column width="70%"}
 ### Bob Ferguson
-#### Vice President
+#### President
 President
 Strategic Consulting, Inc.<br>
 [bob@strategic-consult.com](mailto:bob@strategic-consult.com)
@@ -40,17 +24,18 @@ Strategic Consulting, Inc.<br>
 
 ::: columns
 ::: {.column width="70%"}
-### Claire Murphy
-#### Secretary
-Ph.D. Student
-Dept. of Food Science & Technology, Virginia Tech
-[cmarik@vt.edu](mailto:cmarik@vt.edu)
+### Elizabeth Reed
+#### Vice President
+Microbiologist
+FDA’s Center for Food Safety and Applied Nutrition
+[elizabeth.reed@fda.hhs.gov](mailto:elizabeth.reed@fda.hhs.gov)
 :::
 
 ::: {.column width="30%"}
-![Portrait of Claire Murphy](assets/claire-murphy.jpeg){.board-portrait}
+![Portrait of Elizabeth Reed](assets/liz-reed.jpeg){.board-portrait}
 :::
 :::
+
 <br>
 
 ::: columns

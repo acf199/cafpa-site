@@ -7,22 +7,26 @@ website:
     left:
       - href: board.qmd
         text: Board Members
-      - href: fall2026meeting.qmd
-        text: ASM & CAFPA Fall 2026 Meeting
+      - href: meetings.qmd
+        text: Past CAFPA Meetings
     right:
       - href: https://www.foodprotection.org/
         text: IAFP
-      - href: https://www.foodprotection.org/membership/become-a-member/
-        text: Become a Member
-      - href: contact.qmd
+      - text: Become a Member
+        menu:
+          - text: Become an IAFP Member (with option to join CAFPA)
+            href: https://www.foodprotection.org/membership/become-a-member/
+          - text: Become a CAFPA Member
+            href: https://forms.gle/eCNFxoAdQQEvqX61A
+      - href: https://forms.gle/QRCMJjuMso8jTACQ7
         text: Contact CAFPA
 
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "**Upcoming** - ASM & CAFPA Fall 2026 Joint Meeting - Oct. 23rd - [Learn more and register](fall2026meeting.qmd)"
-    type: success
-    position: below-navbar
+#  announcement:
+#    icon: info-circle
+#    dismissable: true
+#    content: "**Upcoming** - ASM & CAFPA Fall 2026 Joint Meeting - Oct. 23rd - [Learn more and register](fall2026meeting.qmd)"
+#    type: success
+#    position: below-navbar
 
 format:
   html:
