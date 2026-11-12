@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://acf199.github.io/cafpa-site/index.html</loc>
-    <lastmod>2026-10-08T15:04:55.912Z</lastmod>
+    <loc>https://acf199.github.io/cafpa-site/meetings.html</loc>
+    <lastmod>2026-11-12T19:39:44.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acf199.github.io/cafpa-site/fall2026meeting.html</loc>
+    <lastmod>2026-11-12T19:39:26.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acf199.github.io/cafpa-site/board.html</loc>
+    <lastmod>2026-11-12T20:00:55.981Z</lastmod>
   </url>
   <url>
     <loc>https://acf199.github.io/cafpa-site/contact.html</loc>
     <lastmod>2026-10-08T14:56:30.158Z</lastmod>
   </url>
   <url>
-    <loc>https://acf199.github.io/cafpa-site/board.html</loc>
-    <lastmod>2026-10-08T13:28:37.808Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acf199.github.io/cafpa-site/fall2026meeting.html</loc>
-    <lastmod>2026-10-08T15:00:07.958Z</lastmod>
+    <loc>https://acf199.github.io/cafpa-site/index.html</loc>
+    <lastmod>2026-11-12T19:35:40.774Z</lastmod>
   </url>
 </urlset>
